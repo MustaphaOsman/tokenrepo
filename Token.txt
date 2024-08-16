@@ -1,0 +1,4 @@
+{
+    "token": "507|4WPPgcrw0dDCN4mXjpBiz86e2HcYv9bLkZMXiea156cc39a5",
+    "role_id": 1
+}
